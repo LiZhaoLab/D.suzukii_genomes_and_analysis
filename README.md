@@ -12,5 +12,4 @@ Detailed information of the files:
 --CDS sequences in the alternative genomes  
 
 "alignmentsM10pSNPs.tar.gz"         
---Alignments of protein coding sequences in alternative genomes to D. subpulchrella (can be used for MK test)  
-
+--the alignments of each gene in fasta format, including two alternative d. suz sequences and one d. sub reference (can be directly used for MK test) 
