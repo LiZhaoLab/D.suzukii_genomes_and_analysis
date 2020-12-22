@@ -18,4 +18,4 @@ Detailed information of the files in the folder MK_test:
 "alignmentsM10pSNPs.tar.gz"         
 --the alignments of each gene in fasta format, including two alternative d. suz sequences and one d. sub reference (can be directly used for MK test) 
 
-Please cite Durkin  et al. https://doi.org/10.1101/2020.10.15.341594
+Please read and cite Durkin  et al. https://doi.org/10.1101/2020.10.15.341594
