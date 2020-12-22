@@ -1,6 +1,6 @@
 version https://git-lfs.github.com/spec/v1
 
-Detailed information of the files in the folder
+Detailed information of the files in the folder RawDataForD. suzukiiBehaviorAssay:
 
 Detailed information of the files in the folder MK_test:
 
