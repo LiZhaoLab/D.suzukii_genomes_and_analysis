@@ -1,6 +1,8 @@
 version https://git-lfs.github.com/spec/v1
 
 Detailed information of the files in the folder RawDataForD. suzukiiBehaviorAssay:
+Two-Choice: egg-laying chamber raw data
+Whole Fruit: Ripe vs. Rotten fruit
 
 Detailed information of the files in the folder MK_test:
 
@@ -15,3 +17,5 @@ Detailed information of the files in the folder MK_test:
 
 "alignmentsM10pSNPs.tar.gz"         
 --the alignments of each gene in fasta format, including two alternative d. suz sequences and one d. sub reference (can be directly used for MK test) 
+
+Please cite Durkin  et al. https://doi.org/10.1101/2020.10.15.341594
