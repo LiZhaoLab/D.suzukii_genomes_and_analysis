@@ -1,6 +1,6 @@
 version https://git-lfs.github.com/spec/v1
 
-Detailed information of the files:
+Detailed information of the files in the folder MK_test:
 
 "Dsuz_Genome_Assembly.fasta.gz"     
 --Reference genome of D. suzukii
