@@ -15,7 +15,7 @@
 #		 a semicolon and then can have other information or not.
 #		-file names should be *.fa
 #
-#		usage at the bottom of this file shows how to run script
+#		usage at the bottom of this file shows how to run script, or type perl mk.pl in terminall
 #
 #		NOTE:  you will need to have the module Text::NSP to get the FET
 #
